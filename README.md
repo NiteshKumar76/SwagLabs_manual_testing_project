@@ -1,2 +1,3 @@
-# ManualTesting_project_2-Intermedaate_level-
-This prject completly based on  Manual Testing  
+# SwagLabs 
+![SWagLabs loginpage](https://github.com/user-attachments/assets/b05fd947-4abf-48e0-a5fb-91481f3a7e9c)
+
